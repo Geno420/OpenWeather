@@ -1,13 +1,7 @@
-C:\Users\Geno.Geldenhuys\source\repos\OpenWeatherLibrary\bin\Debug\netcoreapp3.0\OpenWeatherLibrary.exe
-C:\Users\Geno.Geldenhuys\source\repos\OpenWeatherLibrary\obj\Debug\netcoreapp3.0\OpenWeatherLibrary.csprojAssemblyReference.cache
-C:\Users\Geno.Geldenhuys\source\repos\OpenWeatherLibrary\obj\Debug\netcoreapp3.0\OpenWeatherLibrary.AssemblyInfoInputs.cache
-C:\Users\Geno.Geldenhuys\source\repos\OpenWeatherLibrary\obj\Debug\netcoreapp3.0\OpenWeatherLibrary.AssemblyInfo.cs
 C:\Users\Geno.Geldenhuys\source\repos\OpenWeatherLibrary\bin\Debug\netcoreapp3.0\OpenWeatherLibrary.deps.json
-C:\Users\Geno.Geldenhuys\source\repos\OpenWeatherLibrary\bin\Debug\netcoreapp3.0\OpenWeatherLibrary.runtimeconfig.json
-C:\Users\Geno.Geldenhuys\source\repos\OpenWeatherLibrary\bin\Debug\netcoreapp3.0\OpenWeatherLibrary.runtimeconfig.dev.json
 C:\Users\Geno.Geldenhuys\source\repos\OpenWeatherLibrary\bin\Debug\netcoreapp3.0\OpenWeatherLibrary.dll
 C:\Users\Geno.Geldenhuys\source\repos\OpenWeatherLibrary\bin\Debug\netcoreapp3.0\OpenWeatherLibrary.pdb
-C:\Users\Geno.Geldenhuys\source\repos\OpenWeatherLibrary\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
-C:\Users\Geno.Geldenhuys\source\repos\OpenWeatherLibrary\obj\Debug\netcoreapp3.0\OpenWeatherLibrary.csproj.CopyComplete
+C:\Users\Geno.Geldenhuys\source\repos\OpenWeatherLibrary\obj\Debug\netcoreapp3.0\OpenWeatherLibrary.AssemblyInfoInputs.cache
+C:\Users\Geno.Geldenhuys\source\repos\OpenWeatherLibrary\obj\Debug\netcoreapp3.0\OpenWeatherLibrary.AssemblyInfo.cs
 C:\Users\Geno.Geldenhuys\source\repos\OpenWeatherLibrary\obj\Debug\netcoreapp3.0\OpenWeatherLibrary.dll
 C:\Users\Geno.Geldenhuys\source\repos\OpenWeatherLibrary\obj\Debug\netcoreapp3.0\OpenWeatherLibrary.pdb

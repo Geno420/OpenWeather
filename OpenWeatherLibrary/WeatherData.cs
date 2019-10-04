@@ -4,8 +4,6 @@ using System.Text;
 
 namespace OpenWeatherLibrary
 {
-    class WeatherData
-    {
         public class Coord
         {
             public double lon { get; set; }
@@ -66,5 +64,5 @@ namespace OpenWeatherLibrary
             public string name { get; set; }
             public int cod { get; set; }
         }
-    }
+    
 }
